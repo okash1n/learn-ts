@@ -1,0 +1,17 @@
+{
+  "name": "learn-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": "ssh://git@github.com/okash1n/learn-ts.git",
+  "author": "Shintaro Okamura <shintaro.okamura@studist.jp>",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
